@@ -1,0 +1,19 @@
+@charset "UTF-8";
+button {
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    background-color: #eee;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  span {
+    font-size: 20px;
+  }
+  
+  #tonality {
+    font-weight: bold;
+  }
+  
